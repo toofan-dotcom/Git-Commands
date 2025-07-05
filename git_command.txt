@@ -6,3 +6,4 @@ git restore filename
 git push origin master/main
 git clone url
 git remote -v
+git add . //for adding all files
